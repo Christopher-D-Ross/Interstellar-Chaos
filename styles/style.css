@@ -1,0 +1,48 @@
+html {
+    font: 10px;
+    font-family: 'Goldman';
+    background-color: cadetblue;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 6px 6px 2px #f35757;
+    color:sandybrown;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: lightcoral;
+    padding: 0 20px 20px 20px;
+    border: 5px solid sandybrown;
+  }
+
+  img{
+      display: block;
+      margin: 0 auto;
+      width: 400px;
+      height: 400px;
+  }
+  .earth {
+      width: 200px;
+      height: 200px;
+  }
+  .georgia {
+      width: 200px;
+      height: 200px;
+  }.human {
+      width: 170px;
+      height: 200px;
+  }
+h3 {
+    color:royalblue;
+    text-align: center;
+}
